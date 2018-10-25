@@ -342,7 +342,7 @@ client.on('message', message => {
     }
 });
 
-const devs = ['379653208529698818' , '383711936174620672'];
+const devs = ['450822258605424642' , '383711936174620672'];
 const adminprefix = "-";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
